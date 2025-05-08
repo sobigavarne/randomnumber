@@ -1,0 +1,18 @@
+body{
+    background-color:skyblue;
+    margin: 3px;
+    padding: 2px;
+}
+#btn{
+    background-color: blue;
+    color: white;
+    font-size: 20px;
+}
+#text{
+    background-color: aqua;
+    color: white;
+    font-size: 10px;
+}
+
+    
+
